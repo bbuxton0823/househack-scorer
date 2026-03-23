@@ -2,6 +2,8 @@
 
 A comprehensive house-hacking deal analyzer for duplexes, triplexes, and fourplexes. Scores each property based on how well rental income offsets your mortgage, with VA loan support, cash flow projections, rent control awareness, and negotiation intel.
 
+**Live App:** [househack-scorer.vercel.app](https://househack-scorer.vercel.app)
+
 ## Screenshots
 
 ### Light Mode
@@ -35,6 +37,10 @@ A comprehensive house-hacking deal analyzer for duplexes, triplexes, and fourple
 | < 40 | Avoid |
 
 ## One-Click Deploy
+
+### Deploy to Vercel (Recommended)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbbuxton0823%2Fhousehack-scorer&project-name=househack-scorer&framework=other&buildCommand=npm%20run%20build&outputDirectory=dist%2Fpublic&installCommand=npm%20install)
 
 ### Deploy to Railway
 
